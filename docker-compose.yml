@@ -1,0 +1,21 @@
+services:  
+  learnikpy01:
+
+    environment:          
+      UCVAR: "ulriken"            
+      
+    build:
+      context: .
+      dockerfile: Dockerfile
+      
+    container_name: learnikPy01
+
+    tty: true 
+
+    #ports:
+    #  - 8000:8000
+
+    # Mount host directories to container directories
+    volumes:
+      - './Source:/home/learniken/source:rw'
+ 

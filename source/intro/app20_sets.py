@@ -1,0 +1,1 @@
+# Hvorfor forsvinner 1 ? 
