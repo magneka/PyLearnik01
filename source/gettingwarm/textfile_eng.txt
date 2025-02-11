@@ -1,0 +1,6 @@
+Hello Learniken guys!
+Today we are going to start our journey into learning a brilliant programming language, Python.
+Magne Alvheim, will do his best to guide you into the Python world.
+For starters we will look at the language, how to define variables, how to do loops and branches.
+Next we will look at objectoriented Python, how to access databases.
+Then we can create a rest based a.p.i. to access the databases.

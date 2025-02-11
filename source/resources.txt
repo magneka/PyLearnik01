@@ -1,0 +1,15 @@
+Mosh har en youtube kanal med mange python videoer
+https://www.youtube.com/@programmingwithmosh
+
+Første del av første gang følger vi basicly 
+Python in one hour
+https://www.youtube.com/watch?v=kqtD5dpn9C8&t=1421s&ab_channel=ProgrammingwithMosh
+
+Classes er ikke dekket hos Moshi, men her er det grundig gjennomgått
+https://www.youtube.com/watch?v=_vr5faCXFo8&ab_channel=ClearCode
+
+Speeding gjennom python syntax
+https://www.youtube.com/watch?v=PNSIWjWAA7o&ab_channel=BeauCarnes
+
+Cambridge python for dem som ikke kan programmere (lang video)
+https://www.youtube.com/watch?v=KlQFcdQoMHY&ab_channel=OpenSourceTutor
